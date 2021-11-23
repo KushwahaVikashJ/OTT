@@ -21,14 +21,39 @@ function Shows() {
                 </div>
             </div>
             <div className="show-carousel">
-                <h1 className="show-carousel-title">Show Carousel</h1>   
+                <h1>Show Carousel</h1>   
                 <div className="show-carousel-wrapper">
                     <div className="show-carousel-list">
                         <div className="show-carousel-item">
                             <img className="show-carousel-img" src={Show1} alt="show-carousel"/>
-                            <h4>The Ben Show</h4>
+                            <h4 className="show-carousel-title">The Ben Show</h4>
+                        </div>
+                        <div className="show-carousel-item">
+                            <img className="show-carousel-img" src={Show1} alt="show-carousel"/>
+                            <h4 className="show-carousel-title">The Ben Show</h4>
+                        </div>
+                        <div className="show-carousel-item">
+                            <img className="show-carousel-img" src={Show1} alt="show-carousel"/>
+                            <h4 className="show-carousel-title">The Ben Show</h4>
+                        </div>
+                        <div className="show-carousel-item">
+                            <img className="show-carousel-img" src={Show1} alt="show-carousel"/>
+                            <h4 className="show-carousel-title">The Ben Show</h4>
+                        </div>
+                        <div className="show-carousel-item">
+                            <img className="show-carousel-img" src={Show1} alt="show-carousel"/>
+                            <h4 className="show-carousel-title">The Ben Show</h4>
+                        </div>
+                        <div className="show-carousel-item">
+                            <img className="show-carousel-img" src={Show1} alt="show-carousel"/>
+                            <h4 className="show-carousel-title">The Ben Show</h4>
+                        </div>
+                        <div className="show-carousel-item">
+                            <img className="show-carousel-img" src={Show1} alt="show-carousel"/>
+                            <h4 className="show-carousel-title">The Ben Show</h4>
                         </div>
                     </div>
+                    <i class="fas fa-chevron-right arrow"></i>
                 </div>             
             </div>
         </div>
